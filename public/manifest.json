@@ -1,0 +1,14 @@
+{
+  "name": "GeneVibes",
+  "description": "GeneVibes is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://19d06bbe-660b-48fc-aab0-5d91e0dcdcb5.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "GeneVibes",
+      "description": "GeneVibes is a Base Mini App built with Zara.",
+      "url": "https://19d06bbe-660b-48fc-aab0-5d91e0dcdcb5.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

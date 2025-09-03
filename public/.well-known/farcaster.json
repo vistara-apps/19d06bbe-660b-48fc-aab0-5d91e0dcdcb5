@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "GeneVibes",
+    "subtitle": "Built with Zara",
+    "description": "GeneVibes is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://19d06bbe660b48fcaab05d91e0dcdcb5-i607-7r8hcjytt-vistara.vercel.app",
+    "splashImageUrl": "https://19d06bbe660b48fcaab05d91e0dcdcb5-i607-7r8hcjytt-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://19d06bbe660b48fcaab05d91e0dcdcb5-i607-7r8hcjytt-vistara.vercel.app/image.png",
+    "tagline": "GeneVibes",
+    "screenshotUrls": [
+      "https://19d06bbe660b48fcaab05d91e0dcdcb5-i607-7r8hcjytt-vistara.vercel.app/screenshot.png",
+      "https://19d06bbe660b48fcaab05d91e0dcdcb5-i607-7r8hcjytt-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://19d06bbe660b48fcaab05d91e0dcdcb5-i607-7r8hcjytt-vistara.vercel.app/api/webhook"
+  }
+}
